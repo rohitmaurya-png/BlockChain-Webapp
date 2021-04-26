@@ -24,7 +24,7 @@ To start the project on localhost
 
 Make sure Netmask and  Ganache are up and running
 truffle migrate should remove some coin from the 100 value.
-![Ganache Page](./screenshot/daap2.png)
+![Ganache Page](./screenshot/daap2.PNG)
 click the key symbol for private key
 
 This are the default setting for netmask
