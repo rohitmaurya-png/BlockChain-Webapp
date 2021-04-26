@@ -2,22 +2,24 @@ Dependencies
 
 nodejs -node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 link : https://nodejs.org/en/
+
 Ganache - A on click blockchain ,allows to spin up a blockchain on our computer
 link : https://www.trufflesuite.com/ganache
+
 metamask extention: Etherium wallet,has the capability to turn a regular web browser to a blockchain web browser
 link(chrome): https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
 Installation of truffle on windows machine 
-'''npm install -g truffle'''
-'''npm install -g npm'''
-'''npm install -g ethereumjs-testrpcnpm''' 
-'''install -g -production windows-build-tools'''
+```npm install -g truffle```
+```npm install -g npm```
+'```npm install -g ethereumjs-testrpcnpm```
+```install -g -production windows-build-tools```
 
 To start the project on localhost
-'''truffle compile'''
-'''truffle migrate'''
-'''npm install'''
-'''npm start'''
+```truffle compile```
+```truffle migrate```
+```npm install```
+```npm start```
 
 Make sure Netmask and  Ganache are up and running
 truffle migrate should remove some coin from the 100 value.
