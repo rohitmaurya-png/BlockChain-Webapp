@@ -10,16 +10,17 @@ metamask extention: Etherium wallet,has the capability to turn a regular web bro
 link(chrome): https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
 Installation of truffle on windows machine 
-```npm install -g truffle```
-```npm install -g npm```
-'```npm install -g ethereumjs-testrpcnpm```
-```install -g -production windows-build-tools```
+
+1.```npm install -g truffle```
+2.```npm install -g npm```
+3.```npm install -g ethereumjs-testrpcnpm```
+4.```install -g -production windows-build-tools```
 
 To start the project on localhost
-```truffle compile```
-```truffle migrate```
-```npm install```
-```npm start```
+1.```truffle compile```
+2.```truffle migrate```
+3.```npm install```
+4.```npm start```
 
 Make sure Netmask and  Ganache are up and running
 truffle migrate should remove some coin from the 100 value.
