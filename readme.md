@@ -24,29 +24,29 @@ To start the project on localhost
 
 Make sure Netmask and  Ganache are up and running
 truffle migrate should remove some coin from the 100 value.
-![Ganache Page](./images/daap2.png)
+![Ganache Page](./screenshot/daap2.png)
 click the key symbol for private key
 
 This are the default setting for netmask
-![netmask Page](./images/daap3.png)
+![netmask Page](./screenshot/daap3.png)
 
 Export Private key of ganache to netmask
-![netmask Page](./images/daap4.png)
+![netmask Page](./screenshot/daap4.png)
 
 after a successfull connection you will get this output
-![netmask Page](./images/daap6.png)
+![netmask Page](./screenshot/daap6.png)
 
 stack 10 coins
-![netmask Page](./images/daap7.png)
+![netmask Page](./screenshot/daap7.png)
 
 confirmation pop-up
-![netmask Page](./images/daap8.png)
+![netmask Page](./screenshot/daap8.png)
 
 confirm
-![netmask Page](./images/daap9.png)
+![netmask Page](./screenshot/daap9.png)
 
 if the connection between ganache or netmask are't successfull you may a get a loading screen
-![netmask Page](./images/daap1.png)
+![netmask Page](./screenshot/daap1.png)
 
 
 
