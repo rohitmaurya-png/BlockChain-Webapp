@@ -45,7 +45,7 @@ confirmation pop-up
 confirm
 ![netmask Page](./images/daap9.png)
 
-if the connection between ganache or netmask are't successfull you may a get a loding screen
+if the connection between ganache or netmask are't successfull you may a get a loading screen
 ![netmask Page](./images/daap1.png)
 
 
