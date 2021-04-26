@@ -31,19 +31,19 @@ This are the default setting for netmask
 !["netmask Page"](./screenshot/daap3.PNG)
 
 Export Private key of ganache to netmask
-![netmask Page](./screenshot/daap4.png)
+![netmask Page](./screenshot/daap4.PNG)
 
 after a successfull connection you will get this output
-![netmask Page](./screenshot/daap6.png)
+![netmask Page](./screenshot/daap6.PNG)
 
 stack 10 coins
-![netmask Page](./screenshot/daap7.png)
+![netmask Page](./screenshot/daap7.PNG)
 
 confirmation pop-up
-![netmask Page](./screenshot/daap8.png)
+![netmask Page](./screenshot/daap8.PNG)
 
 confirm
-![netmask Page](./screenshot/daap9.png)
+![netmask Page](./screenshot/daap9.PNG)
 
 if the connection between ganache or netmask are't successfull you may a get a loading screen
 ![alt text](https://github.com/rohitmaurya-png/BlockChain-Webapp/blob/main/screenshot/daap.PNG)
