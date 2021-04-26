@@ -28,7 +28,7 @@ truffle migrate should remove some coin from the 100 value.
 click the key symbol for private key
 
 This are the default setting for netmask
-![netmask Page](./screenshot/daap3.png)
+!["netmask Page"](./screenshot/daap3.PNG)
 
 Export Private key of ganache to netmask
 ![netmask Page](./screenshot/daap4.png)
@@ -46,7 +46,7 @@ confirm
 ![netmask Page](./screenshot/daap9.png)
 
 if the connection between ganache or netmask are't successfull you may a get a loading screen
-![netmask Page](./screenshot/daap.png)
+![alt text](https://github.com/rohitmaurya-png/BlockChain-Webapp/blob/main/screenshot/daap.PNG)
 
 
 
